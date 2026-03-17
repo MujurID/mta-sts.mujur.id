@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx.yandex.net
-max_age: 60
+mx: smtp.google.com.mxs.1mpr0vmx.c0m.free.mujur.id
+mx: smtp.google.com.r0ut3s.mx.cl0udfl4r3.n3t.free.mujur.id
+max_age: 86400
